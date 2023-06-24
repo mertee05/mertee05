@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on starter projects to develop my Front-End skills
 - 🌱 I’m currently learning the basics of Javascript
-- 👯 I’m looking to collaborate on with mentors
+- 👯 I’m looking to collaborate with mentors
 
 
 ### 🌐 Connect with me:
