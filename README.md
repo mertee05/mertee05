@@ -1,7 +1,7 @@
 ### Hi there! 👋 My name is Mert and I am currently learning and developing Front-End Web Dev projects
 
 - 🔭 I’m currently working on starter projects to develop my Front-End skills
-- 🌱 I’m currently learning the basics of Javascript
+- 🌱 I’m currently learning the basics of HTML, CSS and Javascript
 - 👯 I’m looking to collaborate with mentors
 
 
